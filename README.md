@@ -1,2 +1,2 @@
 # RCS-SFP
-Retail Customer Segmentation &amp; Sales Forecasting Project
+Retail Customer Segmentation & Sales Forecasting Project
