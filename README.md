@@ -114,9 +114,8 @@ This project addresses two key business questions:
 
 **Vaishnav Vadrevu**  
 Data & Business Analyst | Machine Learning Enthusiast  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-📁 [Portfolio Website / Other Projects]
+📧 [vadrevuvaishnav9320@outlook.com]  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/vaishnav-vadrevu-li1qa1ba/)]  
 
 ---
 
